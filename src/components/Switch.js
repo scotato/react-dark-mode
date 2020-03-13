@@ -3,9 +3,9 @@ import Switch from 'react-switch'
 
 export default props => (
   <Switch
-    width={256}
-    height={128}
-    handleDiameter={120}
+    width={192}
+    height={96}
+    handleDiameter={88}
     onColor="#0AE678"
     offColor="#c7ced1"
     checkedIcon={false}

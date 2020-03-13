@@ -4,7 +4,7 @@ import GlobalStyle from './GlobalStyle'
 
 const Layout = styled.div`
   display: grid;
-  padding: 64px;
+  padding: 32px;
   grid-template-rows: auto 1fr auto;
   height: 100%;
 `

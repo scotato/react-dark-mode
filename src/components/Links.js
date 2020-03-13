@@ -19,6 +19,10 @@ const Link = styled.a.attrs({
   .dark-mode & {
     color: gold;
   }
+
+  @media screen and (orientation:portrait) {
+    display: block;
+  }
 `
 
 export default () => (
